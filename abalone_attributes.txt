@@ -1,9 +1,0 @@
-Gender
-Length
-Diameter
-Height
-Whole weight
-Shucked weight
-Viscera weight
-Shell weight
-Rings
